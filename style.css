@@ -1,0 +1,62 @@
+/* Change the login page background color */
+body.login {
+    background-color: #f0f0f0;
+}
+#login {
+    display: flex;
+    width: min(400px, 90%);
+    height: 100vh;
+    flex-direction: column;
+    place-content: center center;
+    padding: 0;
+}
+/* Change the login logo */
+.login h1 a {
+    background-image: url('path-to-your-logo.png');
+    background-size: 100px 100px;
+    width: 100%;
+    height: fit-content;
+	text-indent: 0;
+	font-weight: 300;
+	letter-spacing: 2;
+	letter-spacing: 6px;
+	text-transform: uppercase;
+}
+
+/* Customize the login form */
+.login form {
+	display: flex;
+    flex-direction: column;
+    background: #fff;
+    border: none;
+    border-radius: 32px;
+    padding: 32px;
+}
+input {
+    display: block;
+    width: 100%;
+    height: 50px;
+    border-radius: 8px !important;
+}
+input[type=text], input[type=password] {
+    border: 1px solid #eee !important;
+}
+.login .button.wp-hide-pw {
+    top: 50%;
+    transform: translateY(-50%);
+}
+/* Change the login button */
+.login .button-primary {
+    color: #fff;
+    text-shadow: none;
+	background: linear-gradient(45deg, #222, #333);
+    border: none !important;
+	transition: .3s;
+}
+
+.login .button-primary:hover {
+    background: #111;
+}
+p#nav, p#backtoblog , p.forgetmenot, .language-switcher{
+    display: none;
+}
