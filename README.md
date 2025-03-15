@@ -29,12 +29,16 @@ For support or feature requests, please use the [GitHub Issues section](https://
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests on the [GitHub repository](https://github.com/MatinKhamooshi/wp-login-style-plugin).
 
+## Developer
+
+Developed by [Matin Khamooshi](https://matinkhamooshi.ir) + AI
+
 ---
 **Note:** Always back up your site before installing or updating plugins.
 
 ---
 
-# افزونه WP Login Form Style
+# افزونه سفارشی‌سازی استایل و ساختار فرم ورود وردپرس
 
 ## توضیحات
 **افزونه WP Login Form Style** به شما امکان می‌دهد ظاهر فرم ورود وردپرس خود را به راحتی سفارشی کنید.
@@ -65,6 +69,10 @@ Contributions are welcome! Feel free to submit issues or pull requests on the [G
 
 ## مشارکت
 ما از مشارکت‌های شما استقبال می‌کنیم! اگر ایده‌ای دارید یا مشکلی پیدا کردید، لطفاً آن را در [مخزن GitHub](https://github.com/MatinKhamooshi/wp-login-style-plugin) با ما به اشتراک بگذارید. با هم می‌توانیم این افزونه را بهتر کنیم!
+
+## توسعه‌دهنده
+
+توسعه یافته توسط [Matin Khamooshi](https://matinkhamooshi.ir) + AI
 
 ---
 **توجه:** همیشه قبل از نصب یا به‌روزرسانی افزونه‌ها از سایت خود نسخه پشتیبان تهیه کنید.
